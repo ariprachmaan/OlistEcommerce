@@ -1,6 +1,6 @@
 ## Background Project
 
-Perusahaan yang bergerak di bidang jual beli online ingin melakukan analisa terkait produk yang dijualnya. Ecommerce tersebut ingin mengetahui fakta-fakta bisnis yang ada dan mengaitkannya dengan dampak yang dapat terjadi bagi perusahaan. Hasil analisis dan visualisasi akan dijadikan acuan perusahaan untuk membentuk strategi agar sales produk terus meningkat. 
+Perusahaan yang bergerak di bidang jual beli online ingin melakukan analisa terkait produk yang dijualnya. E-commerce tersebut ingin mengetahui fakta-fakta bisnis yang ada dan mengaitkannya dengan dampak yang dapat terjadi bagi perusahaan. Hasil analisis dan visualisasi akan dijadikan acuan perusahaan untuk membentuk strategi agar sales produk terus meningkat. 
 
 ---
 
