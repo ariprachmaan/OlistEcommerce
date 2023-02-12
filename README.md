@@ -13,4 +13,4 @@ Perusahaan yang bergerak di bidang jual beli online ingin melakukan analisa terk
 ---
 
 ## Hasil Analisis
-[Medium]
+[Medium] (https://medium.com/@m.ariefrachmaann/olist-e-commerce-marketing-analysis-de3e82a0ff1a)
